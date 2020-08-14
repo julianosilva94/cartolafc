@@ -58,7 +58,7 @@ export default {
           }
         })
         .sort((a, b) => b.preco_num - a.preco_num)
-        .sort((a, b) => a.para_valorizar - b.para_valorizar)
+        // .sort((a, b) => a.para_valorizar - b.para_valorizar)
     }
   }
   // methods: {
